@@ -1,0 +1,25 @@
+{
+    "umumiyTalabalarSoni": 813,
+    "bitiruvchiTalabalarSoni": 0,
+    "bitirganTalabalarSoni": 0,
+    "oqituvchilarSoni": 28,
+    "oqituvchilar": [
+        
+        {
+            "soni": 1,
+            "turi": "bosh o'qituvchi"
+        },
+        {
+            "soni": 1,
+            "turi": "1-toifali"
+        },
+        {
+            "soni": 8,
+            "turi": "2-toifali"
+        },
+        {
+            "soni": 18,
+            "turi": "toifasiz o'qituvchilar"
+        }
+    ]
+}

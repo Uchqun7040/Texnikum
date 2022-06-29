@@ -1,0 +1,46 @@
+[
+        {
+            "kun": 4,
+            "oy": "Iyul",
+            "elonVaqt": "08:00",
+            "elonKun": "15.06.2022",
+            "manba": "Ma'muriyat",
+            "manbaLinki":"",
+            "rasm": "assets/images/event/tatil.jpg",
+            "mavzu": "Yozgi ta'til",
+            "matn": "2-bosqich talabalari 4-iyuldan ta'tilga chiqadi."
+        },
+        {
+            "kun": 1,
+            "oy": "Avgust",
+            "elonVaqt": "08:00",
+            "elonKun": "15.06.2022",
+            "manba": "Ma'muriyat",
+            "manbaLinki":"",
+            "rasm": "assets/images/event/tatil.jpg",
+            "mavzu": "Yozgi ta'til",
+            "matn": "1-bosqich talabalari 1-avgustdan ta'tilga chiqadi."
+        },
+        {
+            "kun": 23,
+            "oy": "Iyun",
+            "elonVaqt": "12:00",
+            "elonKun": "24.06.2022",
+            "manba": "Ma'muriyat",
+            "manbaLinki":"",
+            "rasm": "assets/images/event/bayram.jpg",
+            "mavzu": "Yangi O'zbekiston yoshlari birlashaylik",
+            "matn": "Maktabimizda \"Yangi O'zbekiston yoshlari birlashaylik\" shiori ostida \"Sog'lom turmush tarzini targ'ib qilaylik\" mavzusida tadbir tashkil etildi."
+        },
+        {
+            "kun": 26,
+            "oy": "May",
+            "elonVaqt": "12:00",
+            "elonKun": "27.05.2022",
+            "manba": "Ma'muriyat",
+            "manbaLinki":"",
+            "rasm": "assets/images/event/quvnoqstart.jpg",
+            "mavzu": "Quvnoq startlar sport musobaqasi o'tkazildi",
+            "matn": "26-may kuni jismoniy tarbiya fani o'qituvchisi Jumaqulov Odiljon boshchiligida 1-bosqich Hamshiralik ishi va Feldsher-akusherlik ishi talaba qizlari o'rtasida quvnoq startlar sport musobaqasi o'tkazildi."
+        }
+]

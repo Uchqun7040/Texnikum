@@ -1,0 +1,37 @@
+{
+    "direktor": {
+        "fio": "Yusupov Shuhrat Abdumo'minovich",
+        "lavozim": "Direktor",
+        "telNomer": " (91) 137-84-09",
+        "vazifasi": " Sariosiyo tuman Abu ali Ibn Sino nomidagi Jamoat salomatligi texnikumi direktori",
+        "tamomlagan": "2003-yil Samarqand Davlat tibbiyot instituti"
+    },
+    "xodim1": {
+        "fio": "Abdurazzoqov shuhrat Mamarajabovich",
+        "lavozim": "Direktor o'rinbosari",
+        "telNomer": "(91) 465-69-01",
+        "vazifasi": " O'quv va tarbiyaviy ishlar bo'yicha direktor o'rinbosari",
+        "tamomlagan": "1996-yil Samarqand Davlat tibbiyot instituti"
+    },
+    "xodim2":{
+        "fio": "Do'sanov Jo'rabek Mirzayevich",
+        "lavozim": "Direktor o'rinbosari",
+        "telNomer": "(90) 378-54-20",
+        "vazifasi": " Moliya va iqsodiyot bo'yicha direktor o'rinbosari",
+        "tamomlagan": "2004-yil Termiz Davlat universiteti"
+    },
+    "xodim3": {
+        "fio": "Miraliyev Akbarali Mahmadaliyevich",
+        "lavozim": "Direktor o'rinbosari",
+        "telNomer": "(91) 906-09-14",
+        "vazifasi": "Ishlab chiqarish va ta'lim bo'yicha direktor o'rinbosari",
+        "tamomlagan": "2006 yil Toshkent pediatriya tibbiyot instituti В№ 275360, 2012-yil TerDU  QT№011810"
+    },
+    "xodim4": {
+        "fio": "Tursunov Azizjon Mirzarahim o'g'li",
+        "lavozim": "Xo'jalik mudiri",
+        "telNomer": "(90) 569-89-88",
+        "vazifasi": "Xo'jalik mudiri",
+        "tamomlagan": "2011-yil Termiz ijtimoiy-iqtisodiy kasb-hunar kolleji"
+    }
+}
